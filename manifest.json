@@ -1,7 +1,7 @@
 {
-    "name": "raincord-force-media-mode",
-    "description": "forces high-fidelity multimedia streaming audio profiles across active voice servers.",
-    "version": "1.0.0",
-    "author": "blasieuwu",
-    "theme": "theme.css"
+  "name": "MediaModeForce",
+  "version": "1.0.0",
+  "description": "forces mobile discord audio out of communication/call mode and directly into system media/music streams for pristine high-fidelity audio monitoring.",
+  "author": "blasieuwu",
+  "main": "index.js"
 }
