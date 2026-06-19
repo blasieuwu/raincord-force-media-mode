@@ -3,6 +3,5 @@
     "description": "forces high-fidelity multimedia streaming audio profiles across active voice servers.",
     "version": "1.0.0",
     "author": "blasieuwu",
-    "type": "theme",
-    "main": "theme.css"
+    "theme": "theme.css"
 }
